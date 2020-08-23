@@ -7,7 +7,11 @@ The purpose of the analysis is to help PyBer with understanding the key metrics 
 ### Results
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+![PyBer summary](https://github.com/emmagao1/PyBer_Analysis/blob/master/Resources/DF.PNG)
+
 Calculated total rides for each city types,total drivers for each city types,the total fares for each city types,the average fare per ride for each city types,the average fare per driver for each city types.To create the summary DataFrame, from the merged DataFrame got the total rides, total drivers, and total fares for each city type using the groupby() function on the city type.Calculated the average fare per ride and the average fare per driver for each city type.Deleted the index name pyber_ride summary_df.index.name. Created the summary DataFrame with the appropriate columns- Total fare,Average Fare per Ride,Average Fare per Driver formatted with currency dollar and rounded t 2 decimal place.
+
+![PyBer fare summary](https://github.com/emmagao1/PyBer_Analysis/blob/master/PyBer_fare_summary.png)
 
 The Total fare is shown by City Type. Rural,Subarban and Urban.The fare in Urban cities seems to be more than the rural and subarban is in the mid of the two. The trend seem to remain identical irrespective of the city.Sometimes between February and March sees the peak of the fare.
 
