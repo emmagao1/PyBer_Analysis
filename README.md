@@ -2,7 +2,7 @@
 
 ### Overview of the analysis
 
-The purpose of the analysis is to help PyBer with understanding the key metrics for the ride-sharing data by city type from Jan. 2019 to Apr. 2019 by creating DataFrames and to visualize the weekly fares total for each city type by using matplotlib. 
+The purpose of the analysis is to help PyBer to understand the key metrics for the ride-sharing data by city type from Jan. 2019 to Apr. 2019 by creating DataFrames and to visualize the weekly fares total for each city type by using matplotlib. 
 
 ### Results
 
